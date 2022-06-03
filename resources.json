@@ -345,14 +345,6 @@
   ],
   "userCart": [
     {
-      "productName": "Mamypoko Pants Style Diapers - Large, 62 pcs",
-      "productPrice": 930,
-      "quantity": 1,
-      "totalPrice": 930,
-      "imageURL": "http://localhost:8080/static/images/products/baby/mamy.jpg",
-      "id": "5b6c74d101a7c38429530896"
-    },
-    {
       "productName": "Nestle Cerelac Stage - 4 Multi Grain & Fruits, 2x300 gm",
       "productPrice": 478,
       "quantity": 1,
@@ -361,12 +353,12 @@
       "id": "5b6c753c01a7c38429530898"
     },
     {
-      "productName": "Apple - Washington, Regular, 4 pcs",
-      "productPrice": 187,
+      "productName": "Bournvita Pro-Health Drink - Chocolate, 2x750 gm",
+      "productPrice": 572,
       "quantity": 1,
-      "totalPrice": 187,
-      "imageURL": "http://localhost:8080/static/images/products/fruit-n-veg/apple.jpg",
-      "id": "5b6c6aeb01a7c38429530884"
+      "totalPrice": 572,
+      "imageURL": "http://localhost:8080/static/images/products/beverages/bournvita.jpg",
+      "id": "5b6c6fbf01a7c3842953088e"
     }
   ]
 }

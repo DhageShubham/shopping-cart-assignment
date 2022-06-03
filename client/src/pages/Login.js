@@ -17,6 +17,7 @@ function Login() {
 
   let validateLoginCreds = (event) => {
     event.preventDefault();
+    console.log(Login);
 
     if (
       localStorage.getItem("userEmail") === userEmailRef.current.value.trim() &&
